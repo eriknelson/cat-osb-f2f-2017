@@ -1,5 +1,4 @@
-# Catalog Highlights
-**Attendees**
+# Attendees
   * Red Hat
     * Paul Morie
     * Erik Nelson
@@ -28,6 +27,8 @@
     * Mike Rhodes
   * SAP
     * Florian Muller
+    
+# Catalog Highlights
 
 **Async Bind**
 
